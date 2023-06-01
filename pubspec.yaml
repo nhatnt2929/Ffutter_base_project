@@ -1,0 +1,100 @@
+name: pes
+description: my application.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.14.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.2  
+  auto_size_text: ^3.0.0 
+
+   
+  
+  intl: ^0.17.0
+  
+  tuple: ^2.0.0
+  lazy_load_scrollview: 1.3.0
+  
+  dartx: ^0.7.1
+  connectivity_plus: ^1.0.6
+  flutter_easyloading: ^3.0.5
+  dio: 4.0.4
+  json_annotation: ^4.0.1
+  flutter_bloc: ^8.0.1
+  equatable: ^2.0.3
+  lifecycle: ^0.4.3 
+
+  # store data
+  hive: ^2.1.0
+  path_provider: ^2.0.9
+
+  # injectable anotation
+  injectable: ^1.5.3
+
+  # dependency injection
+  get_it: ^7.2.0
+
+  # udid unique
+  flutter_udid: ^2.0.0
+
+  # logger
+  logger: ^1.0.0
+
+  freezed: "2.1.0+1"
+  json_serializable: 6.5.4
+  device_info_plus: ^3.2.3
+  flutter_screenutil: ^5.0.0+2
+  shared_preferences: ^2.0.5
+
+  #get device info
+  device_info: ^2.0.2
+
+
+  ui_tool: ^0.1.1
+
+  # Vector image
+  flutter_svg: ^0.22.0
+
+  #read file
+  flutter_dotenv: ^4.0.0-nullsafety.1
+  package_info: ^2.0.2
+  
+  url_launcher: ^6.1.5 
+flutter_icons:
+  android: true
+  ios: true
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter 
+  flutter_lints: ^1.0.0
+  injectable_generator: ^1.5.0
+  build_runner: ^2.1.10
+  
+
+flutter:
+  generate: true
+  fonts:
+    - family: SFProDisplay-Regular
+      fonts:
+        - asset: assets/fonts/SFProDisplay-Regular.ttf
+    - family: SFProDisplay-Bold
+      fonts:
+        - asset: assets/fonts/SFProDisplay-Bold.ttf
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/env/
+    - assets/fonts/
+
+flutter_intl:
+  enabled: true

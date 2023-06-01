@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="298.918" height="285.591" viewBox="0 0 298.918 285.591">
+  <g id="NG判定" transform="translate(-45.999 -135.473)">
+    <g id="Rectangle_1099" data-name="Rectangle 1099" transform="translate(45.999 135.473)" fill="#777474" stroke="#707070" stroke-width="1" opacity="0.49">
+      <rect width="298.918" height="285.591" stroke="none"/>
+      <rect x="0.5" y="0.5" width="297.918" height="284.591" fill="none"/>
+    </g>
+    <g id="_アイコン" data-name="×アイコン" transform="translate(198.536 97.536) rotate(45)">
+      <rect id="Rectangle_1103" data-name="Rectangle 1103" width="260" height="70" transform="translate(-4.293 94.657)" fill="red"/>
+      <rect id="Rectangle_1104" data-name="Rectangle 1104" width="70" height="260" transform="translate(90.873)" fill="red"/>
+    </g>
+  </g>
+</svg>

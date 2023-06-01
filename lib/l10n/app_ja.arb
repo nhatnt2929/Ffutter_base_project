@@ -1,0 +1,35 @@
+{
+    "email": "ユーザーID",
+    "password": "パスワード",
+    "login": "ログイン",
+    "login_title": "EXQR現品照合",
+    "login_id_invalid": "企業ID 無効",
+    "api_key_invalid": "APIKEY 無効",
+    "login_policy": "利用規約",
+
+    "menu_title" : "ホーム",
+    "menu_scan" : "現品照合",
+    "menu_list" : "実績確認",
+    "menu_setting" : "設定",
+    "menu_logout" : "ログアウト",
+
+    "scan_one_title" : "指示読み取り",
+    "warning_title_step_one": "警告",
+    "warning_message_step_one": "QRコードの項目数が正しくありません。",
+    "des_line_one_step_one": "指示の読み取りを",
+    "des_line_two_step_one": "してください",
+
+    "scan_detail_history_title" : "照合実績",
+    "scan_detail_title" : "指示",
+    "scan_product_title" : "照合",
+    "error_title" : "エラー",
+    "select_template_title" : "業務選択",
+    "next_scan_product" : "次へ",
+    "edit_send" : "照合終了",
+    "edit_title" : "追加入力",
+    "edit_empty_error" : "を入力してください。",
+    "edit_commond_error" : "入力データが間違っています。再入力してください",
+    "save_log_title_success" : "照合が完了しました",
+    "title_notification" : "通知",
+    "select_connection_title" : "接続先選択"
+}
